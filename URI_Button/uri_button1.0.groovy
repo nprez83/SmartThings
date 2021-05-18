@@ -13,7 +13,7 @@
  *  Author: Numa Perez. Based off URI Switch by tguerena with the following changes. 
  * 		1) Switch is initialized in the OFF state, and returns to the OFF state after being turned on, hence working more as a momentary button than a switch. 
  * 		2) Because of the above change, only a single external URI/internal path is required.
- * 		2) Added try/catch statements around the httpget call.
+ * 		3) Added try/catch statements around the httpget call.
  */
 
 
